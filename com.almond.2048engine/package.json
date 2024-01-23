@@ -2,12 +2,24 @@
   "name": "com.almond.2048engine",
   "version": "0.0.1",
   "displayName": "Almond's 2048 game engine",
-  "description": "2048 game core",
+  "description": "2048 game core\n\nTemplate for 2048 game\n-You can custom vertical-horizontal count\n\nContain samples\n- Console : Play game and show game board in console window.\n- 2D : Play game and Show board in game UI.",
   "keywords": [
     "almond",
     "2048",
     "2048engine",
     "engine"
+  ],
+  "samples": [
+    {
+      "displayName": "2048 console",
+      "description": "2048 game sample for console.\nYou can check the game board in the console window.\nLog is output when the game ends\n**Play using arrow keys.**",
+      "path": "Samples~/ver_console"
+    },
+    {
+      "displayName": "2048 2D",
+      "description": "2048 game sample by 2D UI.\nYou can check the game board in UI\nLog is output when the game ends\n**Play using arrow keys.**",
+      "path": "Samples~/ver_2D"
+    }
   ],
   "author": {
     "name": "Almond",
