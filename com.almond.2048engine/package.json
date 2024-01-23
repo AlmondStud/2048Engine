@@ -1,0 +1,17 @@
+{
+  "name": "com.almond.2048engine",
+  "version": "0.0.1",
+  "displayName": "Almond's 2048 game engine",
+  "description": "2048 game core",
+  "keywords": [
+    "almond",
+    "2048",
+    "2048engine",
+    "engine"
+  ],
+  "author": {
+    "name": "Almond",
+    "email": "gooldare@naver.com"
+  },
+  "unity": "2021.3"
+}
